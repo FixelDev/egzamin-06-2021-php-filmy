@@ -1,0 +1,62 @@
+*
+{
+    font-family: Verdana;
+}
+
+#banner-left
+{
+    background-color: #29434E;
+    color: #fff;
+    text-align: center;
+    width: 70%;
+    height: 70px;
+    float:left;
+}
+
+#banner-right
+{
+    background-color: #29434E;
+    color: #fff;
+    width: 30%;
+    height: 70px;
+    float:left;
+}
+
+#list-recommended, #list-fantasy
+{
+    background-color: #B0BEC5;
+    height: 320px;
+    overflow: scroll;
+}
+
+footer
+{
+    background-color: #29434E;
+    color: #fff;
+}
+
+.movie-card
+{
+    padding: 5px;
+    width: 226px;
+    height: 280px;
+    float:left;
+}
+
+h3
+{
+    background-color: #546E7A;
+    color: #fff;
+    margin: 0px;
+}
+
+h4
+{
+    text-align: center;
+    margin: 0px;
+}
+
+.clr
+{
+    clear:both;
+}
