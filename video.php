@@ -111,7 +111,7 @@
             <input type="submit" value="Usuń film">
         </form>
 
-        <p>Stronę wykonał: Muj stara</p>
+        <p>Stronę wykonał: Franciszek Pawłowski</p>
 
         
     </footer>
